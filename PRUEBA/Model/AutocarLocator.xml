@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<AutocarLocator>
+  
+  <article class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+
+    <div class="jarviswidget jarviswidget-color-white" id="wid-id-0" data-widget-editbutton="false" data-widget-deletebutton="false" data-widget-fullscreenbutton="false">
+      
+      <header>
+        <span class="widget-icon">
+          <i class="fa fa-map-marker"></i>
+        </span>
+        <h2>Google Map</h2>
+      </header>
+
+      <div>
+
+        <div class="jarviswidget-editbox">
+
+        </div>
+
+        <div class="widget-body no-padding">
+
+          <h2>Google Map</h2>
+          <h2>Google Map</h2>
+        </div>
+
+      </div>
+
+    </div>
+
+  </article>
+  
+</AutocarLocator>
